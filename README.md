@@ -1,4 +1,3 @@
-# Test for CodeRabbit PR review
 # woocommerce-shopify-bundle-plugin
 woocommerce-shopify-bundle-plugin
 # Quantity Break Widgets — Shopify-style (Free)
